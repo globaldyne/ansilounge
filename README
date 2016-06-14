@@ -1,0 +1,16 @@
+****************************************Ansilounge*****************************************************
+PLEASE NOTE: Install script is designed for CentOS systems. If you want to use a different OS, please
+do a manual installation.
+
+Before you execute the install script, please do the following:
+
+yum -y install git
+
+git clone https://bitbucket.org/globaldyne/ansilounge.git
+
+create a mysql user ansilounge with the same password and give full permission to ansilounge db
+
+CREATE USER 'ansilounge'@'localhost' IDENTIFIED BY 'ansilounge';
+GRANT ALL PRIVILEGES ON * . * TO 'ansilounge'@'localhost';
+FLUSH PRIVILEGES;
+

