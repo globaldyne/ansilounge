@@ -6,7 +6,7 @@ Before you execute the install script, please do the following:
 
 yum -y install git
 
-git clone https://bitbucket.org/globaldyne/ansilounge.git
+git clone https://bitbucket.org/globaldyne/ansilounge-prod.git
 
 create a mysql user ansilounge with the same password and give full permission to ansilounge db
 
